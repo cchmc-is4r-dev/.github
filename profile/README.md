@@ -1,3 +1,6 @@
-# Welcome to IS4R
+# Welcome to the Information Services 4 Research Organization home
 
-Search for your repo belo :)
+This organization is apart of the Cincinnati Childrens Hospital Medical Center
+https://www.cincinnatichildrens.org
+
+All publicly facing repositories are below.  Unable to find the repo you are looking for...then it is most likely private.
