@@ -1,4 +1,4 @@
-# Welcome to the Information Services 4 Research Organization home
+# Welcome to Information Services 4 Research (IS4R)
 
 This organization is apart of the Cincinnati Childrens Hospital Medical Center
 https://www.cincinnatichildrens.org
